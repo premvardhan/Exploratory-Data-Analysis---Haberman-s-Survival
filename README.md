@@ -1,6 +1,6 @@
 # Exploratory Data Analysis : Haberman's Survival
 
-Relevant Information
+# Relevant Information
 
 The dataset contains cases from a study that was conducted between 1958 and 1970 at the University of Chicago's Billings Hospital on the survival of patients who had undergone surgery for breast cancer.
 
@@ -9,7 +9,7 @@ It contains :-
     305 datapoints/rows
     4 fearures includeing class label
 
-Attributes/Features Information
+# Attributes/Features Information
 
 There are 4 features including class label/dependent variable.
 30 - It represents age of patient at the time of operation(numerical)
@@ -17,7 +17,7 @@ There are 4 features including class label/dependent variable.
 1 - It tells no of +ve auxillry node detected(numerical)
 1.1 - Survival status 1 = the patient survived 5 years or longer 2 = the patient died within 5 year
 
-Objective : -
+# Objective : -
 
 To classify/predict a patient survival who had undergone surgery for breast cancer.
 
